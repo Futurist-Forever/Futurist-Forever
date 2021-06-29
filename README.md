@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Futuristic-Man
-- 👀 I’m interested in Python, AI, ML, Data Science, Web Development
+- 👀 I’m interested in Python, AI, ML, Data Science & Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
