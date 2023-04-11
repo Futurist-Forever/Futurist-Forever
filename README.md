@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Futurist-Forever
 - 👀 I’m interested in C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Data Science, Cyber Security, AI & ML
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C
+- 🌱 I’m currently learning C and Python
+- 💞️ I’m looking to collaborate on C and Python
 - 📫 How to reach me ...
 contactus@futuristforever.ml
 - 🏷️ My badges ...
