@@ -2,7 +2,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71509305/251135817-711bef6f-24be-451a-935e-c02e53c4162c.png" alt="my banner" />
 </p>
 
-<h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.ml" > @Futurist-Forever </a></h1>
+<h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.ml" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
 
 <h2> 📊 Statistics </h2>
 <p align="left">
@@ -12,7 +12,7 @@
 
 <h2> 📁 Top Repositories </h2>
 <p align="left">
-<a href="https://github.com/Futurist-Forever/Arrangemaster">
+<a href="https://github.com/Futurist-Forever/Arrangemaster" target="_blank" rel="noreferrer" >
 <img height=150 align="center" src="https://futurist-forever-stats.vercel.app/api/pin/?username=Futurist-Forever&repo=Arrangemaster&theme=transparent" alt="arrangemaster" />
 </a>
 </p>
@@ -116,21 +116,21 @@
 
 <h2> 📛 Badges </h2>
 <p align="left">
-<a href="https://holopin.me/@futuristforever">
+<a href="https://holopin.me/@futuristforever" target="_blank" rel="noreferrer" >
 <img align="center" src="https://holopin.me/futuristforever" alt="holopin" />
 </a>
 </p>
 
 <h2> ☕ Buy Me A Coffee </h2>
 <p align="left">
-<a href="https://paypal.me/futuristforever">
+<a href="https://paypal.me/futuristforever" target="_blank" rel="noreferrer" >
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal" />
 </a>
 </p>
 
 <h2> 📱 Connect With Me </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/futuristforever">
+<a href="https://www.linkedin.com/in/futuristforever" target="_blank" rel="noreferrer" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 </p>
