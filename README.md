@@ -2,7 +2,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71509305/251135817-711bef6f-24be-451a-935e-c02e53c4162c.png" alt="my banner" />
 </p>
 
-<h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.ml" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
+<h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.vercel.app" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
 
 <h2> 📊 Statistics </h2>
 <p align="left">
