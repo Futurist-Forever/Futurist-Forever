@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71509305/251135817-711bef6f-24be-451a-935e-c02e53c4162c.png" alt="my banner" />
+<img src="https://github.com/Futurist-Forever/Futurist-Forever/assets/71509305/c45b303b-1720-4ea7-afff-99237d1edf5e" alt="my banner" />
 </p>
 
 <h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.vercel.app" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
