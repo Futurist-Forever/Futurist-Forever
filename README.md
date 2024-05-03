@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Futurist-Forever/Futurist-Forever/assets/71509305/c45b303b-1720-4ea7-afff-99237d1edf5e" alt="my banner" />
+<img src="[https://github.com/Futurist-Forever/Futurist-Forever/assets/71509305/c45b303b-1720-4ea7-afff-99237d1edf5e](https://github.com/Futurist-Forever/Futurist-Forever/assets/71509305/b7e2e4f0-a1f7-40b5-b364-5b8ef1b65968)" alt="my banner" />
 </p>
 
 <h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.vercel.app" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
