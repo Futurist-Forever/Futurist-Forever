@@ -22,6 +22,9 @@
 <h3> 📋 Languages </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="bash" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
