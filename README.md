@@ -4,6 +4,8 @@
 
 <h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.pages.dev" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+
 <h2> 📊 Statistics </h2>
 <p align="left">
 <img height=200 align="center" src="https://futurist-forever-stats.vercel.app/api?username=Futurist-Forever&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="stats" />
