@@ -10,13 +10,6 @@
 <img height=200 align="center" src="https://futurist-forever-stats.vercel.app/api/top-langs/?username=Futurist-Forever&theme=transparent&layout=compact&langs_count=10" alt="toplangs"  />
 </p>
 
-<h2> 📁 Top Repositories </h2>
-<p align="left">
-<a href="https://github.com/Futurist-Forever/Arrangemaster" target="_blank" rel="noreferrer" >
-<img height=150 align="center" src="https://futurist-forever-stats.vercel.app/api/pin/?username=Futurist-Forever&repo=Arrangemaster&theme=transparent" alt="arrangemaster" />
-</a>
-</p>
-
 <h2> 🚀 Skills </h2>
 
 <h3> 📋 Languages </h3>
