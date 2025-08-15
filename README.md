@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://github.com/Futurist-Forever/Futurist-Forever/assets/71509305/1208d992-edfb-466c-b6d6-4a4331848b22" alt="my banner" />
+<!-- <img src="https://github.com/Futurist-Forever/Futurist-Forever/assets/71509305/1208d992-edfb-466c-b6d6-4a4331848b22" alt="my banner" /> -->
+<img width="2520" height="690" src="https://github.com/user-attachments/assets/3e8588d6-3057-4a29-aa01-d3c58ce5b28d" alt="my banner" />
 </p>
 
-<h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.pages.dev" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1>
+<!-- <h1 align="center"> 👋 Hi there, I’m <a href="https://futuristforever.pages.dev" target="_blank" rel="noreferrer" > @Futurist-Forever </a></h1> -->
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
